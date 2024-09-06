@@ -1,6 +1,6 @@
 ---
 title: "Educating yourself on a new niche"
-Date: 2024-09-06T12:14:30+00:00
+Date: 2024-09-06T11:14:30+00:00
 draft: false
 categories: "Marketing"
 ---
